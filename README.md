@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**MaryannN/MaryannN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # I'm Maryann :D
 
 - 🌸 Pronouns: she/they
@@ -13,4 +10,3 @@
 - 📫 Connect with me: https://www.linkedin.com/in/maryann-nwude/
 
 - 🌟 Fun fact: My favorite book right now is Felix Ever After! 📚
--->
