@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **MaryannN/MaryannN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# I'm Maryann :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌸 Pronouns: she/they
+- 👀 I’m currently working on Local Hack Day: Build!
+- 🧠 I’m currently learning python
+- 💻 I’m looking for help with web development
+- 🔎 Ask me about anything!
+- 📫 Connect with me: https://www.linkedin.com/in/maryann-nwude/
+
+- 🌟 Fun fact: My favorite book right now is Felix Ever After! 📚
 -->
