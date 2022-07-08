@@ -9,4 +9,4 @@
 - 🔎 Ask me about anything!
 - 📫 Connect with me: https://www.linkedin.com/in/maryann-nwude/
 
-- 🌟 Fun fact: My favorite book right now is Felix Ever After! 📚
+- 🌟 Fun fact: My favorite book is Felix Ever After! 📚
