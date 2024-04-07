@@ -2,11 +2,9 @@
 
 # I'm Maryann :D
 
-- 🌸 Pronouns: she/they
-- 👀 I’m currently working on Web Dev and APIs!
-- 🧠 I’m currently learning python
-- 💻 I’m looking for help with web development
+- 🧠 I’m currently learning SQL
+- 💻 I’m looking for help with Data Visualization
 - 🔎 Ask me about anything!
 - 📫 Connect with me: https://www.linkedin.com/in/maryann-nwude/
 
-- 🌟 Fun fact: My favorite book is Felix Ever After! 📚
+- 🌟 Fun fact: My favorite music artist is Stray Kids 🎸
